@@ -1,0 +1,21 @@
+/*
+Theme Name: Aweosome Makeup Artist
+Theme URI: Iamrazvan.ro
+Author: Irimie Razvan
+Author URI: https://Iamrazvan.ro/
+Description: Makeup, Cosmetics Theme
+Tags: custom-background, custom-header, custom-menu, custom-logo, portfolio
+Version: 1.0
+Text Domain:  Aweosome Makeup Artist
+*/
+@media screen and (max-width: 480px) {
+  .navbar-brand{
+  display: block;
+  }
+}
+@media screen and (min-width: 481px) {
+  .navbar-brand{
+  display: none;
+  }
+
+}
